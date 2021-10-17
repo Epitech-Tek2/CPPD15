@@ -1,0 +1,8 @@
+main.cpp
+*.o
+Makefile
+*.gcno
+*.gcda
+a.out
+unit_tests
+test
